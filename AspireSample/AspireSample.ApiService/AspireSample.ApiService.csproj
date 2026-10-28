@@ -19,7 +19,6 @@
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.0" />
-    <PackageReference Include="Aspire.Hosting.NodeJs" Version="9.5.2" />
   </ItemGroup>
 
 </Project>
